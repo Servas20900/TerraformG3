@@ -1,0 +1,12 @@
+Ejercicios a desarrollar 
+
+
+1. Primeros Pasos
+
+Despliegue desde cero un sitio web con  Terraform y Azure o su proveedor favorito, configure los archivos de infraestructura necesarios para aprovisionar un Resource Group y un Storage Account. Al finalizar, ejecute el flujo completo de comandos de Terraform en la terminal para inicializar. 
+
+2. Ajustes Necesarios 
+
+Modifique el archivo de configuración variables.tf para cambiar la región de despliegue por defecto de Azure a una zona geográfica distinta a la original
+
+--Suerte :) !
